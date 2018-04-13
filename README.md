@@ -2,6 +2,10 @@
 
 > An electron-vue project, markdown table format content generator.
 
+#### Snapshot
+
+![](./snapshot.png)
+
 #### Build Setup
 
 Use npm or yarn:
